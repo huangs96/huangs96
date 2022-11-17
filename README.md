@@ -46,7 +46,7 @@ I am a passionate Full-stack Developer based in Vancouver, B.C. Thanks for stopp
 * Hiking with my two dogs (Milo the Golden & Mikey the Morkie)
 
 
-### :hammer_and_wrench: What I know
+### :hammer_and_wrench: Languages and Tools
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
