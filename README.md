@@ -31,8 +31,9 @@ I am a passionate Full-stack Developer based in Vancouver, B.C. Thanks for stopp
 
 ### 👨‍💻 I’m currently interested in and learning
 
-* Serverless Architecture (AWS Certified Developer Associate Course (DVA-C01))
+* Serverless Architecture
 * Cloud Computing
+* AWS Certified Developer Associate Course (DVA-C01)
 
 
 ### 🏂 On my free time
