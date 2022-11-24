@@ -28,7 +28,7 @@ Take a look at my resume <a href="https://drive.google.com/file/d/180vfaJ_DqtBEY
 * Backend Development (Node.js) 
 * Frontend Development (Angular, React)
 * Database Development (SQL)
-* My current project: COMING SOON
+* My current project: Express Clone
 
 
 ### 👨‍💻 I’m currently interested in and learning
