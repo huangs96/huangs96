@@ -20,7 +20,7 @@
 
 I am a passionate and idealistic Full-stack Developer based in Vancouver, B.C. Thanks for stopping by!
 
-Take a look at my resume <a href="https://drive.google.com/file/d/180vfaJ_DqtBEYnWCQMwHgdv_biCT1mFD/view?usp=share_link">here</a>. 😄
+Take a look at my resume <a href="https://drive.google.com/file/d/1Zj36ntVLcoepdsJK7A8vJY2RkIvsayRd/view?usp=share_link">here</a>. 😄
 </br>
 
 ### 💬 Ask me about
