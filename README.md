@@ -40,6 +40,7 @@ Take a look at my resume <a href="https://drive.google.com/file/d/1Zj36ntVLcoepd
 
 ### 🏂 On my free time
 
+* Cooking
 * Basketball
 * Snowboarding
 * Long-distance Running
