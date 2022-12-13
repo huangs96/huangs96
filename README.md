@@ -1,6 +1,6 @@
 # Hello World, I'm Stephen 👋
 <sub> 
-  Connect with me to get into my endless jar of ideas. 👀
+  Connect with me. 👀
 </sub>
 </br>
 </br>
