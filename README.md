@@ -33,6 +33,7 @@ Take a look at my resume <a href="https://drive.google.com/file/d/1bOgd1HyOhPiqy
 
 ### 👨‍💻 I’m currently interested in and learning
 
+* Web Sockets
 * Serverless Architecture
 * Cloud Computing
 * AWS Certified Developer Associate Course (DVA-C01)
