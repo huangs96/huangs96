@@ -28,7 +28,7 @@ Take a look at my resume <a href="https://drive.google.com/file/d/1bOgd1HyOhPiqy
 * Backend Development (Node.js) 
 * Frontend Development (Angular, React)
 * Database Development (SQL)
-* My current project: Stoddit
+* My current project: Stoddit, a social trading platform
 
 
 ### 👨‍💻 I’m currently interested in and learning
