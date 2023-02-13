@@ -64,7 +64,3 @@ Take a look at my resume <a href="https://drive.google.com/file/d/1PjsXE6Sfbl3o-
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-#### Get in Touch!
-<a href="https://www.linkedin.com/in/stephenhuang8"><img src="https://user-images.githubusercontent.com/99042142/202541595-4a178519-7f49-4699-a27e-846aecbfb9e9.png" width="20" height="20"></a> <a href="https://www.calendly.com/stephen_huang"><img src="https://user-images.githubusercontent.com/99042142/202545146-d2d17960-4891-400d-9c6b-6139eb469943.png" width="20" height="20"></a> <a href="https://www.calendly.com/stephen_huang"><img src="https://user-images.githubusercontent.com/99042142/202544827-70cc9a9a-14a0-431c-8452-e28fd0f838ac.png" width="20" height="20"></a> 
