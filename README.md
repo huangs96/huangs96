@@ -18,7 +18,7 @@
  </br>
  
 
-I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. Thanks for stopping by!
+I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. who is always open to new ideas. Thanks for stopping by!
 
 Take a look at my resume <a href="https://drive.google.com/file/d/1FnWdJ4pKVY2TGMOEAreJRnhGXwXrACJm/view?usp=share_link">here</a>. 😄
 </br>
