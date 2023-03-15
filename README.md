@@ -18,7 +18,7 @@
  </br>
  
 
-I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. with a background in Marketing. I am always open to new ideas and perspectives!
+I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. with a background in Marketing and IoT. I am always open to new ideas and perspectives!
 
 Take a look at my resume <a href="https://drive.google.com/file/d/1FnWdJ4pKVY2TGMOEAreJRnhGXwXrACJm/view?usp=share_link">here</a>. 😄
 </br>
