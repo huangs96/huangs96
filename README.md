@@ -18,7 +18,7 @@
  </br>
  
 
-I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. with a background in Marketing and IoT. I am always open to new ideas and perspectives!
+I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. with a background in IoT and experience with AI. I am always open to new ideas and perspectives!
 
 Take a look at my resume <a href="https://drive.google.com/file/d/1K4GRFZoNeq-J8oRw5ZUW2jcQB0Ct3yxT/view?usp=share_link">here</a>. 😄
 </br>
@@ -26,7 +26,7 @@ Take a look at my resume <a href="https://drive.google.com/file/d/1K4GRFZoNeq-J8
 
 ### 💬 Ask me about
 
-* Backend Development (Node.js) 
+* Backend Development (Scala, Node.js) 
 * Frontend Development (Angular, React)
 * Database Development (SQL)
 * My current project: Stoddit, a social trading platform
