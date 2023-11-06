@@ -24,13 +24,13 @@ I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. wi
 
 ### 💬 Ask me about
 
-* Backend Development (Scala, Node.js) 
-* Frontend Development (Angular, React)
-* Database Development (SQL)
-* My current project: Stoddit, a social trading platform
+* Backend Development
+* Frontend Development
+* Database Development
+* My current project: JobSync, an AI-powered job search assistant
 
 
-### 👨‍💻 I’m currently interested in and learning
+### 👨‍💻 I’m currently interested in learning
 
 * Web Sockets
 * Serverless Architecture
