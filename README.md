@@ -18,7 +18,7 @@
  </br>
  
 
-I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. with a background in IoT and experience with AI. I am always open to new ideas and perspectives!
+I am a passionate and pragmatic Full-stack Developer based in Vancouver, B.C. with a background in IoT, data analytics, and AI. I am always open to new ideas and perspectives!
 </br>
 <br>Thanks for stopping by!
 
